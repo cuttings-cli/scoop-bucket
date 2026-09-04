@@ -1,12 +1,12 @@
 {
-    "version": "1.6.0",
+    "version": "1.7.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ChristophBe/cuttings/releases/download/v1.6.0/cuttings_windows_amd64.zip",
+            "url": "https://github.com/ChristophBe/cuttings/releases/download/v1.7.0/cuttings_windows_amd64.zip",
             "bin": [
                 "cuttings.exe"
             ],
-            "hash": "10f0c17db1ceedcffa4c617040dbe7816541b983bbd3b8ea62d80e490cb1a069"
+            "hash": "7b06eaec21291e334f2ad2a3702a14fed69f92fe89d4f3d81e19ee716a4a7ea0"
         }
     },
     "homepage": "https://github.com/ChristophBe/cuttings",
